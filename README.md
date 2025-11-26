@@ -1,8 +1,47 @@
 # IntelliSort
 
-<p align="center">
-  <img src="docs/banners/intellisort-banner.png" width="100%" alt="IntelliSort Banner" />
-</p>
+<div align="center" style="
+    width: 100%;
+    padding: 40px 20px;
+    border-radius: 12px;
+    background: linear-gradient(135deg, #020617 0%, #0f172a 100%);
+    border: 1px solid #1e293b;
+    box-shadow: 0 0 25px rgba(0,0,0,0.3);
+">
+
+  <h1 style="
+      color: #38bdf8;
+      font-size: 3rem;
+      font-weight: 800;
+      margin-bottom: 0.3em;
+      font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Helvetica, Arial;
+  ">
+    IntelliSort
+  </h1>
+
+  <p style="
+      color: #e2e8f0;
+      font-size: 1.2rem;
+      max-width: 700px;
+      line-height: 1.6;
+      margin: auto;
+      font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Helvetica, Arial;
+  ">
+    Interactive sorting algorithm visualizer with AI runtime prediction.<br />
+    Built with Next.js, FastAPI, and scikit-learn.
+  </p>
+
+  <p style="margin-top: 20px;">
+    <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+    <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+    <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+  </p>
+
+</div>
+
+<br />
+
 
 ---
 
