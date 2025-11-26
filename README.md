@@ -61,6 +61,7 @@ intellisort/
     └── theme.ts             # MUI dark theme
 
 ```
+---
 
 ## 📸 Screenshots
 
