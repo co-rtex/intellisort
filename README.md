@@ -93,6 +93,8 @@ intellisort/
     ├── lib/api.ts           # API client for backend
     └── theme.ts             # MUI dark theme
 
+---
+
 ## 📸 Screenshots
 
 ### Algorithm Visualizer
